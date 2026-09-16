@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SmartKid public pages</title>
+    <title>SmartKid</title>
     <link>https://smartkid.cc/en</link>
-    <description>Public marketing URLs for SmartKid</description>
+    <description>SmartKid public marketing pages</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Sep 2026 08:53:34 GMT</lastBuildDate>
     <item>
-      <title>https://smartkid.cc/en</title>
+      <title>SmartKid English home</title>
       <link>https://smartkid.cc/en</link>
-      <guid>https://smartkid.cc/en</guid>
+      <guid isPermaLink="true">https://smartkid.cc/en</guid>
+      <pubDate>Wed, 16 Sep 2026 08:53:34 GMT</pubDate>
+      <description>SmartKid English home</description>
     </item>
     <item>
-      <title>https://smartkid.cc/en/pricing</title>
+      <title>SmartKid pricing</title>
       <link>https://smartkid.cc/en/pricing</link>
-      <guid>https://smartkid.cc/en/pricing</guid>
+      <guid isPermaLink="true">https://smartkid.cc/en/pricing</guid>
+      <pubDate>Wed, 16 Sep 2026 08:53:34 GMT</pubDate>
+      <description>SmartKid pricing</description>
+    </item>
+    <item>
+      <title>SmartKid Thai home</title>
+      <link>https://smartkid.cc/th</link>
+      <guid isPermaLink="true">https://smartkid.cc/th</guid>
+      <pubDate>Wed, 16 Sep 2026 08:53:34 GMT</pubDate>
+      <description>SmartKid Thai home</description>
+    </item>
+    <item>
+      <title>SmartKid FAQ</title>
+      <link>https://smartkid.cc/en/faq</link>
+      <guid isPermaLink="true">https://smartkid.cc/en/faq</guid>
+      <pubDate>Wed, 16 Sep 2026 08:53:34 GMT</pubDate>
+      <description>SmartKid FAQ</description>
+    </item>
+    <item>
+      <title>SmartKid trust</title>
+      <link>https://smartkid.cc/en/trust</link>
+      <guid isPermaLink="true">https://smartkid.cc/en/trust</guid>
+      <pubDate>Wed, 16 Sep 2026 08:53:34 GMT</pubDate>
+      <description>SmartKid trust</description>
     </item>
   </channel>
 </rss>
