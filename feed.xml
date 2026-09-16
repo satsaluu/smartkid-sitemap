@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SmartKid public pages</title>
+    <link>https://smartkid.cc/en</link>
+    <description>Public marketing URLs for SmartKid</description>
+    <item>
+      <title>https://smartkid.cc/en</title>
+      <link>https://smartkid.cc/en</link>
+      <guid>https://smartkid.cc/en</guid>
+    </item>
+    <item>
+      <title>https://smartkid.cc/en/pricing</title>
+      <link>https://smartkid.cc/en/pricing</link>
+      <guid>https://smartkid.cc/en/pricing</guid>
+    </item>
+  </channel>
+</rss>
